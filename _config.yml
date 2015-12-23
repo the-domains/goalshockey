@@ -1,0 +1,28 @@
+name: goalshockey
+favicon: null
+layout_spectrum: 0.46992055675946176
+typography_spectrum: 0.8587888635229319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6162677127867937
+  lightness: 0.09838131326250732
+  saturation: 0.7492211523931473
+  rhythmicContrast: 0.27857988118194044
+purpose: []
